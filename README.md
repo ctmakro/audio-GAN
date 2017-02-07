@@ -1,3 +1,5 @@
+update: I shouldn't fork this repo. this guy did not succeed; c'mon, MLP's not for modeling audio.
+
 # Implementation of [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661), for Audio.
 
 Idea is to be able to generate speech using GANs.
